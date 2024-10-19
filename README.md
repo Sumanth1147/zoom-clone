@@ -11,7 +11,7 @@
   </div>
 
   <h3 align="center">A Zoom Clone</h3>
- <a href="zoom-clone-beta-eight.vercel.app">Visit</a>
+  <p>Visit: zoom-clone-beta-eight.vercel.app </p>
    
 </div>
 
