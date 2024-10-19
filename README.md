@@ -3,7 +3,7 @@
     
   
   <br />
-   <p> Visit: zoom-clone-beta-eight.vercel.app </p>p
+  <a href="zoom-clone-beta-eight.vercel.app">Visit</a>
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
